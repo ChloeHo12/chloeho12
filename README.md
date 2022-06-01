@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Chloe Ho
+- 👀 I’m interested in Business Analytics
+- 🌱 I’m currently double majoring in Data Analytics and Quantitative Economics at Dickinson College
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me: hochl@dickinson.edu
