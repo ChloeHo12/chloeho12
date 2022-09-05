@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyen Ho (Chloe)</h1>
+<h1 align="center">Hi 👋, I'm Chloe Ho</h1>
 <h3 align="center">A Rising Junior passionate about Data Analytics</h3>
 
 - 🌱 I’m currently learning **Data Analytics and Quantitative Economics at Dickinson College**
