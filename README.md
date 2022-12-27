@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chloe Ho</h1>
-<h3 align="center">A Junior passionate about Data Analytics</h3>
+<h3 align="center">A techie passionate about Data Analytics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chloe12&label=Profile%20views&color=0e75b6&style=flat" alt="chloe12" /> </p>
 
