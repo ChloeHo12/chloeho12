@@ -5,7 +5,7 @@
 
 - 🌱 I’m a **Data Analytics and Quantitative Economics double-major at Dickinson College**
 
-- 📫 How to reach me **hochl@dickinson.edu**
+- 📫 Reach out to me  **hochl@dickinson.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
