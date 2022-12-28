@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chloe12&label=Profile%20views&color=0e75b6&style=flat" alt="chloe12" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics and Quantitative Economics at Dickinson College**
+- 🌱 I’m a **Data Analytics and Quantitative Economics double-major at Dickinson College**
 
 - 📫 How to reach me **hochl@dickinson.edu**
 
